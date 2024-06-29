@@ -56,12 +56,22 @@ const EmailSection = () => {
           try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/younglord088">
-            <Image src={GithubIcon} alt="Github Icon" />
-          </Link>
-          <Link href="https://www.linkedin.com/in/yash-panjwani-088/">
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
-          </Link>
+          <div>
+          <div
+              onClick={() => window.open("https://github.com/younglord088", "_blank")}
+              className="cursor-pointer"
+            >
+              <Image src={GithubIcon} alt="Github Icon" />
+            </div>
+          </div>
+          <div >
+          <div
+              onClick={() => window.open("https://www.linkedin.com/in/yash-panjwani-088/", "_blank")}
+              className="cursor-pointer"
+            >
+              <Image src={LinkedinIcon} alt="Linkedin Icon" />
+            </div>
+          </div>
         </div>
       </div>
       <div>
