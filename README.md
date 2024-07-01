@@ -1,30 +1,39 @@
-# Portfolio Website
+# My Portfolio
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+Welcome to my personal portfolio website built using [Next.js](https://nextjs.org/). This website showcases my projects, skills, and experiences. 
 
-## Installation
+## Features
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+- **Responsive Design**: Compatible with various devices and screen sizes.
+- **Dark/Light Mode**: Toggle between dark and light themes.
+- **Dynamic Content**: Powered by dynamic routes in Next.js to showcase projects and blogs.
+- **Fast and Optimized**: Built with performance and SEO in mind.
 
-## Usage
+## Technologies Used
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment**: [Vercel](https://vercel.com/)
+- **Icons**: [Heroicons](https://heroicons.com/)
 
-## Dependencies
+## Live Demo
 
-The following dependencies are required for this project:
+Check out the live site: [My Portfolio](https://portfolio-yash-pi.vercel.app/)
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
+## Sections
 
-## License
+- **Home**: Introduction and overview.
+- **About**: Detailed information about my background and skills.
+- **Projects**: Showcase of my key projects with descriptions and links.
+- **Blog**: Posts and articles I've written.
+- **Contact**: Ways to get in touch with me.
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+- Node.js and npm installed. [Download](https://nodejs.org/)
+- Git installed. [Download](https://git-scm.com/)
 
